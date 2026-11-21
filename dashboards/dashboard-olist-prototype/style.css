@@ -1,0 +1,13 @@
+.kpi-row .value-box {
+  min-height: 100px;
+  height: 50%;
+}
+.kpi-row .value-box-value {
+  font-size: 1.2rem;
+  line-height: 1.1;
+}
+
+/* .kpi-row .value-box-showcase {
+  height: 10px;
+  width: 10px;
+} */
